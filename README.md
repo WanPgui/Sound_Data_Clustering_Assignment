@@ -6,6 +6,11 @@ Sound Data Clustering Assignment
 
 ---
 
+Link to HMM for capstone idea: https://docs.google.com/document/d/1FpUufeMmGvHyqO7sCoXHo5uoxaXeZBv4nucwwvv4DjE/edit?usp=sharing
+
+---
+
+
 ##  Description
 
 This project applies **clustering techniques** to an unlabeled sound dataset to explore the use of **dimensionality reduction** and evaluate different clustering algorithms. The goal is to uncover potential groupings within sound recordings based solely on extracted features, while analyzing the interpretability, accuracy, and real-world applicability of the clustering results.
@@ -112,7 +117,7 @@ PDF summary is included in the repo as:
 ##  Repository Contents
  sound_clustering/
 ├── unlabelled_sounds/ # Extracted audio files
-├── clustering_assignment.ipynb # Main Jupyter Notebook
+├── Formative_1_sound_clustering_assignment.ipynb # Main Jupyter Notebook
 ├── HMM_Capstone_Explanation.pdf # Final HMM summary PDF
 ├── README.md # This file
 
